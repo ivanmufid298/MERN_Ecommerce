@@ -126,6 +126,10 @@ font-family: 'Poppins', sans-serif; */
 }
 
 /* =============== register =============== */
+.register-container {
+  max-width: 60vh;
+}
+
 .register {
   display: flex;
   align-items: center;
